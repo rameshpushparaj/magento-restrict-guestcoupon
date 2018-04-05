@@ -1,3 +1,3 @@
 # magento-restrict-guestcoupon
 
-#Restricts Magento Coupon code usage for Guest Users
+#Restricts Magento Coupon Code Usage for Guest Users
